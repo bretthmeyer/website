@@ -1,5 +1,5 @@
 ---
-title: Prospective Students
+title: Join Us
 layout: page
 permalink: /apply/
 ---
@@ -11,7 +11,8 @@ Interested in joining RSSL? We are currently looking for students at all levels 
 
 _Note_: We do not conduct research on the transistor-level design of digital or mixed-signal systems.
 
-If you feel your background is a good match for our current needs, please read this [excellent article](http://matt.might.net/articles/how-to-apply-and-get-in-to-graduate-school-in-science-mathematics-engineering-or-computer-science/) on how to apply to graduate school before you [contact Professor Meyer](mailto:brett.meyer@mcgill.ca).
+If you feel your background is a good match for our current needs, please read this [excellent article](http://matt.might.net/articles/how-to-apply-and-get-in-to-graduate-school-in-science-mathematics-engineering-or-computer-science/) on how to apply to graduate school.
+Then, please [apply](https://mcgill.ca/uapply), identify _Integrated Circuits and Systems_ as one of your desired research areas, and **Professor Meyer** as one of your desired supervisors, before you [contact him](mailto:brett.meyer@mcgill.ca).
 
 <!-- 
 1. Apply to McGill University, and indicate ICS as your preferred research area.

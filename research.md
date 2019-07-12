@@ -12,19 +12,42 @@ Most research at RSSL combines some set of system architecture, system modeling,
 <a name="current"></a>
 # Current Projects
 
+## Aerospace Cybersecurity
+
+<img style="float: left; padding: 5px;" width="40%" src="/assets/pictures/arinc825tb2.png">
+
+In the aerospace industry, a new communications protocol built on top of CAN has been proposed: the Aeronautics Radio, Incorporated 825 Specification. 
+We believe that the ARINC-825 protocol suffers from the same vulnerabilities as CAN (widely used in automotive and aerospace applicaitons). 
+In our work to date, we have developed a hardware-in-the-loop testbed for simulation of the protocol at the link-layer (where CAN messages are exchanged between transceivers) using realistic data (from the FlightGear flight simulator).
+In this context, we are working on developing new attacks, and related mitigation strategies.
+
 ## Hardware-Software Optimization of Machine Learning Algorithms
 
-Artificial neural networks (ANN), historically used in machine learning to solve classification problems, are beginning to appear in a wide variety of applications domains, such as modeling, decision making, data processing, robotics, and control. 
-Conventionally, ANN are designed for classification accuracy, and the more the better, but the resulting systems are often large and expensive, unsuitable for low-cost applications.
+<img style="float: left; padding: 5px;" width="40%" src="/assets/pictures/opal.png">
+
+Conventionally, Artificial neural networks (ANN) are designed for classification accuracy, and the more the better, but the resulting systems are often large and expensive, and unsuitable for low-cost applications.
 Furthermore, until recently, ANN optimization was a laborious, manual process.
 
-Our research in this area includes automated optimization of neural networks (using sequential model-based optimization), and other techniques. 
+We believe that the computer engineering principles of models, metrics, and automated optimization, are needed to support the deployment of ANN to hardware platforms from the cloud to the edge to mobile or ultra-low-power devices; without multi-objective optimization, efforts to improve accuracy are unlikely to be as efficient as possible.
+Our research in this area includes automated optimization of neural networks (using sequential model-based optimization), and other techniques.
+
+## Multi-granularity Redundancy for Parallel Architectures
+
+<img style="float: left; padding: 5px;" width="40%" src="/assets/pictures/simd-yield.png">
+
+Recent research as suggested that as more processor cores are incorporated on single chips, the appropriate granularity of redundancy for the purpose of failure and defect mitigation is at the system-level. 
+In this project, we investigate the relationship between parallel application, parallel architecture (and single-instruction, multiple-thread architectures in particular), and redundancy allocation, based on the observation that as the demand for types of parallel resources changes (e.g., from many narrow cores to few wide cores), so ought the mix of redundant components (e.g., from redundant cores to cores with redundant lanes).
+We find that redundancy can be a win for cost (as a function of yield), performance, power, and lifetime, depending on the application and system composition.
 
 ## VoltSpot: Power-delivery Network Modeling and Optimization
 
+<img style="float: left; padding: 5px;" width="40%" src="/assets/pictures/voltspot.png">
+
+<!--
 In future CMOS technology nodes, threshold and supply voltages are not scaling down as fast as device density is increasing.
 Higher current density and total current place greater demands on the power-delivery network (PDN); current-related chip phenomena such as electromigration (EM), resistive current (IR) drop, and inductive transient current (Ldi/dt) noise all get worse with higher current and larger current swings.
-[VoltSpot](http://lava.cs.virginia.edu/VoltSpot/) is an architecture-level model of the on-chip PDN including C4 pads, with a simple interface for use in other architecture-level tools. 
+-->
+[VoltSpot](http://lava.cs.virginia.edu/VoltSpot/) is an architecture-level model of the on-chip power delivery nework, including C4 pads, with a simple interface for use in other architecture-level tools. 
 VoltSpot, when integrated with a performance simulator (such as gem5) and power estimation tool (such as McPAT), provides architects with the tools necessary to explore the effect of PDN design, including C4 pad allocation to VDD, GND and I/O and PDN metal width. 
 VoltSpot also supports the exploration of run-time IR drop and Ldi/dt noise prediction, avoidance, and mitigation.  
 Recent work has begun to explore design techniques for system lifetime, 3D-ICs and simulation techniques for accelerating the process of solving for on-chip voltage noise.
@@ -56,9 +79,4 @@ Traditional IPC based on port numbers and payload pattern recognition are no lon
 Recent machine learning (ML) IPC solutions have speed-bounded accuracy, and complex implementation due to their dependence on packet sizes and order of arrival. 
 We propose a new IPC approach that uses associative memory (AM) based on sparse-clustered network with selective decoding, dramatically reducing the memory for hardware implementation of IPC, while significantly improving classification throughput.
 
-## Yield Improvement for Parallel Architectures
-
-Recent research as suggested that as more processor cores are incorporated on single chips, the appropriate granularity of redundancy for the purpose of failure and defect mitigation is at the system-level. 
-We leverage this fact above, but have observed that some systems benefit from a combination of system-level and microarchitetural redundancy. 
-In this project, we investigate the relationship between parallel application, parallel architecture (and single-instruction, multiple-thread architectures in particular), and redundancy allocation, based on the observation that as the demand for types of parallel resources changes (e.g., from many narrow cores to few wide cores), so ought the mix of redundant components (e.g., from redundant cores to cores with redundant lanes).
 
