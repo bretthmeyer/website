@@ -16,7 +16,7 @@
 lang: en-US
 title: Reliable Silicon Systems Lab
 email: brett.meyer@mcgill.ca
-description: "Reliable Silicon Systems Lab"
+description: "Professor Brett H. Meyer directs the Reliable Silicon Systems Lab, a research group in the Electrical and Computer Engineering Department at McGill University."
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: http://rssl.ece.mcgill.ca # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author: 
@@ -41,10 +41,10 @@ search_full_content: false # true, false (default)
 markdown: kramdown
 theme: jekyll-theme-basically-basic
 plugins: # previsously gems
-#  - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-paginate
+#  - jekyll-feed
 # feed:
 #  path: atom.xml
 
