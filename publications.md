@@ -16,6 +16,12 @@ actions:
 <a href="#posters">Posters and Symposia</a><br>
 <a href="#books">Book Chapters</a><br>
 
+<!-- generated with pandoc 1.19.2.1 and lightly edited
+
+pandoc -s --bibliography bhm-tenure.bib --filter pandoc-citeproc --csl=ieee.csl bhm-cv.citeproc -o bhm-cv.html
+
+-->
+
 <a name="journals">
 ## Journal Articles
 
