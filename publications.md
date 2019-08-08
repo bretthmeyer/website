@@ -11,6 +11,26 @@ actions:
    url: "https://scholar.google.ca/citations?user=UyAeYDwAAAAJ&hl=en"
 ---
 
+## Recent Publications
+
+<div id="ref-onizawa-asimolar19-invertible">
+<p>N. Onizawa, K. Nishino, S. C. Smithson, B. H. Meyer, W. Gross, H. Yamagata, H. Fujita, and T. Hanyu, “A design framework for invertible logic,” in <em>2019 conference record of the fifty third asilomar conference on signals, systems and computers</em>, 2019, pp. 1–5.</p>
+</div>
+<div id="ref-al-bayati-tecs19-consistency">
+<p>Z. Al-bayati, Y. Sun, H. Zeng, M. D. Natale, Q. Zhu, and B. H. Meyer, “Partitioning and selection of data consistency mechanisms for multicore real-time systems,” <em>ACM Trans. Embed. Comput. Syst.</em>, vol. 18, no. 4, pp. 35:1–35:28, Jun. 2019.</p>
+</div>
+<div id="ref-mozafari-integration-ppw">
+<p>S. H. Mozafari and B. H. Meyer, “Characterizing the effectiveness of hot sparing on cost and performance-per-watt in application specific SIMT,” <em>Integration, the VLSI Journal</em>, 2019.</p>
+</div>
+<div id="ref-smithson-tcasi19-invertible">
+<p>S. C. Smithson, N. Onizawa, B. H. Meyer, W. J. Gross, and T. Hanyu, “Efficient CMOS invertible logic using stochastic computing,” <em>IEEE Transactions on Circuits and Systems I: Regular Papers</em>, vol. 66, no. 6, pp. 2263–2274, June 2019.</p>
+</div>
+<div id="ref-ardakani-iclr19-btrnn">
+<p>A. Ardakani, Z. Ji, S. C. Smithson, B. H. Meyer, and W. J. Gross, “Learning recurrent binary/ternary weights,” in <em>2019 seventh international conference on learning representations (iclr)</em>, 2019, pp. 1–14.</p>
+</div>
+
+## Full Bibliography
+
 <a href="#journals">Journals</a><br>
 <a href="#conferences">Conferences</a><br>
 <a href="#posters">Posters and Symposia</a><br>
@@ -23,8 +43,11 @@ pandoc -s --bibliography bhm-tenure.bib --filter pandoc-citeproc --csl=ieee.csl 
 -->
 
 <a name="journals">
-## Journal Articles
+### Journal Articles
 
+<div id="ref-al-bayati-tecs19-consistency">
+<p>Z. Al-bayati, Y. Sun, H. Zeng, M. D. Natale, Q. Zhu, and B. H. Meyer, “Partitioning and selection of data consistency mechanisms for multicore real-time systems,” <em>ACM Trans. Embed. Comput. Syst.</em>, vol. 18, no. 4, pp. 35:1–35:28, Jun. 2019.</p>
+</div>
 <div id="ref-mozafari-integration-ppw">
 <p>S. H. Mozafari and B. H. Meyer, “Characterizing the effectiveness of hot sparing on cost and performance-per-watt in application specific SIMT,” <em>Integration, the VLSI Journal</em>, 2019.</p>
 </div>
@@ -72,8 +95,11 @@ pandoc -s --bibliography bhm-tenure.bib --filter pandoc-citeproc --csl=ieee.csl 
 </div>
 
 <a name="conferences">
-## Conference Proceedings
+### Conference Proceedings
 
+<div id="ref-onizawa-asimolar19-invertible">
+<p>N. Onizawa, K. Nishino, S. C. Smithson, B. H. Meyer, W. Gross, H. Yamagata, H. Fujita, and T. Hanyu, “A design framework for invertible logic,” in <em>2019 conference record of the fifty third asilomar conference on signals, systems and computers</em>, 2019, pp. 1–5.</p>
+</div>
 <div id="ref-ardakani-iclr19-btrnn">
 <p>A. Ardakani, Z. Ji, S. C. Smithson, B. H. Meyer, and W. J. Gross, “Learning recurrent binary/ternary weights,” in <em>2019 seventh international conference on learning representations (iclr)</em>, 2019, pp. 1–14.</p>
 </div>
@@ -181,7 +207,7 @@ pandoc -s --bibliography bhm-tenure.bib --filter pandoc-citeproc --csl=ieee.csl 
 </div>
 
 <a name="posters">
-## Posters and Symposia
+### Posters and Symposia
 
 <div id="ref-smithson-halo16-nndnn">
 <p>S. C. Smithson, O. S. Ahmed, G. Yang, W. J. Gross, and B. H. Meyer, “Neural networks designing neural networks: Multi-objective hyper-parameter optimization,” in <em>Workshop on hardware and algorithms for learning on-a-chip (halo)</em>, 2016.</p>
@@ -227,7 +253,7 @@ pandoc -s --bibliography bhm-tenure.bib --filter pandoc-citeproc --csl=ieee.csl 
 </div>
 
 <a name="books">
-## Book Chapters
+### Book Chapters
 
 <div id="ref-paul-2007-des">
 <p>J. M. Paul and B. H. Meyer, “Power-performance modeling and design for heterogeneous multiprocessors,” in <em>Designing embedded processors</em>, Springer, 2007, pp. 423–448.</p>

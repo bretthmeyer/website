@@ -26,19 +26,30 @@ Marihan is a MEng student focusing on machine learning hardware. Find out more a
 
 ### Loren Lugosch, PhD student
 
-{% include icon-www.html link='https://lorenlugosch.github.io/' label='Loren' %} is a PhD student focusing on machine learning. Find out more about his current and past projects at {% include icon-github.html username='lorenlugosch' label='GitHub' %}.
+{% include icon-www.html link='https://lorenlugosch.github.io/' label='Loren' %} is a PhD student (co-supervision with {% include icon-www.html link='http://www.cim.mcgill.ca/~derek/' label='Professor Derek Nowrouzezahrai' %}) focusing on machine learning. Find out more about his current and past projects at {% include icon-github.html username='lorenlugosch' label='GitHub' %}.
 
 ### Jarul Mehta, MEng student
 
+Jarul is an MEng student with interests in embedded systems and machine learning. 
+Find out more about her past work experiences at {% include icon-linkedin.html link='https://www.linkedin.com/in/jarul-mehta' label='LinkedIn' %}.
+
+### Ahmad Muannakki, MEng student
+
+Ahmad is a MEng student focusing on the cybersecurity and reliability of wireless protocols proposed to replace wired netwroking for control systems in aerospace electronics.
+
 ### Alex Orzechowski, MEng student
+
+### Zhuoran (Paul) Xiong, PhD student
+
+Zhuoran is a PhD student (co-supervision with {% include icon-www.html link='http://www.isip.ece.mcgill.ca/' label='Professor Warren Gross' %}) focusing on machine learning. Find out more about his work experience at {% include icon-linkedin.html username='paul-zhuoran-xiong-56567a90' label='LinkedIn' %}.
 
 ### Zixuan (Alex) Yin, MEng student
 
-Alex is finishing his MEng on AutoML techniques for convolutional neural networks. Find out more about his past work experiences at {% include icon-linkedin.html username='zixuan-yin-63b28ba4' label='LinkedIn' %}.
+Alex is finishing his MEng improving multi-objective AutoML techniques for convolutional neural networks. Find out more about his past work experiences at {% include icon-linkedin.html username='zixuan-yin-63b28ba4' label='LinkedIn' %}.
 
 ### Derek Yu, MEng student
 
-Derek is finishing his MEng on the cybersecurity of aerospace systems. You can see more of his projects at {% include icon-github.html username='DerekYu177' label='GitHub' %}.
+Derek is finishing his MEng on a platform for cybersecurity research in aerospace systems, with a focus on the ARINC-825 communications protocol. You can see more of his projects at {% include icon-github.html username='DerekYu177' label='GitHub' %}.
 
 # Alumni
 
