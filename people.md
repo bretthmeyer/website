@@ -35,13 +35,16 @@ Find out more about his current and past projects at {% include icon-github.html
 ### Jarul Mehta, MEng student
 
 Jarul is an MEng student with interests in embedded systems and machine learning. 
-Find out more about her past work experiences at {% include icon-linkedin.html link='https://www.linkedin.com/in/jarul-mehta' label='LinkedIn' %}.
+Find out more about her past work experiences at {% include icon-linkedin.html username='jarul-mehta' label='LinkedIn' %}.
 
 ### Ahmad Muannakki, MEng student
 
 Ahmad is a MEng student focusing on the cybersecurity and reliability of wireless protocols proposed to replace wired netwroking for control systems in aerospace electronics.
 
 ### Alex Orzechowski, MEng student
+
+Alex is an MEng student with interests in embedded systems and machine learning.
+Find out more about his work experiences at {% include icon-linkedin.html username='alexander-orzechowski-98b3b8b9' label='LinkedIn' %}.
 
 ### Zhuoran (Paul) Xiong, PhD student
 
@@ -82,7 +85,7 @@ You can see more of his projects at {% include icon-github.html username='DerekY
 {% include icon-pdf.html link='http://digitool.library.mcgill.ca/webclient/DeliveryManager?pid=143963&custom_att_2=direct' label='Associative memory based on sparse-clustered network with selective decoding for internet packet classification' %}.
 
 *Mojing Liu, MEng'16*, 
-{% include icon-pdf.html link='http://digitool.library.mcgill.ca/webclient/DeliveryManager?pid=138945&custom_att_2=direct' label='Bounding error detection latency with enhanced execution fingerprinting' %}.
+{% include icon-pdf.html link='http://digitool.library.mcgill.ca/webclient/DeliveryManager?pid=138945&custom_att_2=direct' label='Bounding error detection latency with enhanced execution fingerprinting' %} | {% include icon-linkedin.html username='mojingliu' label='LinkedIn' %}.
 
 *Calvin Ma, MEng'16* 
 (Co-supervision with {% include icon-www.html link='http://www.ece.mcgill.ca/~amahaj1/' label='Professor Aditya Mahajan' %}), 

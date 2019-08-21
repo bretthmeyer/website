@@ -25,7 +25,7 @@ In this context, we are working on developing new attacks, and related mitigatio
 
 <img style="float: left; padding: 5px;" width="40%" src="/assets/pictures/opal.png">
 
-Conventionally, Artificial neural networks (ANN) are designed for classification accuracy, and the more the better, but the resulting systems are often large and expensive, and unsuitable for low-cost applications.
+Conventionally, artificial neural networks (ANN) are designed for classification accuracy, and the more the better, but the resulting systems are often large and expensive, and unsuitable for low-cost applications.
 Furthermore, until recently, ANN optimization was a laborious, manual process.
 
 We believe that the computer engineering principles of models, metrics, and automated optimization, are needed to support the deployment of ANN to hardware platforms from the cloud to the edge to mobile or ultra-low-power devices; without multi-objective optimization, efforts to improve accuracy are unlikely to be as efficient as possible.
@@ -49,7 +49,7 @@ Higher current density and total current place greater demands on the power-deli
 -->
 [VoltSpot](http://lava.cs.virginia.edu/VoltSpot/) is an architecture-level model of the on-chip power delivery nework, including C4 pads, with a simple interface for use in other architecture-level tools. 
 VoltSpot, when integrated with a performance simulator (such as gem5) and power estimation tool (such as McPAT), provides architects with the tools necessary to explore the effect of PDN design, including C4 pad allocation to VDD, GND and I/O and PDN metal width. 
-VoltSpot also supports the exploration of run-time IR drop and Ldi/dt noise prediction, avoidance, and mitigation.  
+VoltSpot also supports the exploration of run-time IR drop and Ldi/dt noise prediction, avoidance, and mitigation. 
 Recent work has begun to explore design techniques for system lifetime, 3D-ICs and simulation techniques for accelerating the process of solving for on-chip voltage noise.
 
 <a name="past"></a>
@@ -68,7 +68,7 @@ Embedded system designers rely on automation approaches to meet time-to-market c
 To this end, we have developed (a) techniques to accelerate lifetime estimation and (b) lifetime-aware design space exploration. 
 Earlier, we developed a system synthesis approach that, given an application, hardware/software partitioning and communication architecture, selects and organizes system resources, allocating and distributing slack to jointly optimize system cost and lifetime. 
 Additional research has explored the effect of task mapping on lifetime in this context. 
-Recently, we have developed novel models for abstracting behavior observed in atomistic models of negative-bias temperature instability to the level of standard cell libraries.  
+Recently, we have developed novel models for abstracting behavior observed in atomistic models of negative-bias temperature instability to the level of standard cell libraries.
 Other work explore a new approaches to quickly estimating system lifetime using multi-armed bandits.
 
 ## Internet Packet Classification
