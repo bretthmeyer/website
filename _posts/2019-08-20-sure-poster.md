@@ -5,6 +5,8 @@ excerpt: "Undergraduate Adithya Lakshminarayanan presented his summer research a
 
 Undergraduate Adithya Lakshminarayanan presented his summer research at the McGill SURE Poster Session today.
 
+![Professor Meyer and Adithya Lakshminarayanan with their SURE 2019 poster.](/assets/pictures/sure2019.jpg)
+
 ## Abstract
 
 Neural networks have become increasingly popular, due to their promise of state-of-the-art accuracy, in fields such as image and speech recognition. 
