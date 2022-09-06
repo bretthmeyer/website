@@ -1,5 +1,5 @@
 ---
-title: "Prof. Meyer gives deep learning tutorial at IEEE EPEPS 2019"
+title: "Profs. Gross and Meyer give deep learning tutorial at IEEE EPEPS 2019"
 excerpt: "Profs. Warren Gross and Brett H. Meyer presented a tutorial on the optimization of hardare and software for deep learning at IEEE EPEPS 2019 in Montreal today. Gross introduced machine learning in general, and deep learning in particular, from a computational perspective. He then summarized recent work on custom architecture for DNN acceleration. Meyer followed up with an introduction to multi-objective hyperparameter optimization, with a focus on deployment to low-cost IoT processors."
 ---
 
