@@ -6,8 +6,8 @@ permalink: /apply/
 
 Interested in joining RSSL? We are currently looking for students at all levels (Undergraduate research assistants, Masters students, PhD students, or Postdoctoral research associates) with computer engineering backgrounds interested in:
 
-- Aerospace and automotive system security, and
-- Hardware-software optimization of machine learning systems.
+<!-- - Aerospace and automotive system security, and -->
+- Hardware-software co-optimization of machine learning systems.
 
 _Note_: We do not conduct research on the transistor-level design of digital or mixed-signal systems.
 

@@ -75,8 +75,8 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
-  - /docs # ignore Basically Basic sample site
-  - /example # ignore Basically Basic dev site
+  - jekyll-theme-basically-basic-master.zip # ignore source
+  - jekyll-theme-basically-basic.gemspec # ignore source
   - "*.tgz" # ignore archived builds
 
 # Front Matter Defaults
