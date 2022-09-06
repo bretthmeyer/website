@@ -12,8 +12,8 @@ Interested in joining RSSL? Check out our information for [prospective students]
 <img style="float: left; padding: 5px;" width="25%" src="/assets/pictures/bhm.png">
 
 Professor Meyer is an Associate Professor in the Department of Electrical and Computer Engineering at McGill University. 
-He received his Bachelors of Science in Electrical Engineering, Computer Science, and Math, from the University of Wisconsin in 2003; 
-his Masters and PhD in Electrical and Computer Engineering from Carnegie Mellon University in 2005 adn 2009 respectively.
+They received their Bachelors of Science in Electrical Engineering, Computer Science, and Math, from the University of Wisconsin in 2003; 
+their Masters and PhD in Electrical and Computer Engineering from Carnegie Mellon University in 2005 and 2009 respectively.
 After a brief appointment as a postdoctral researcher in the Computer Science Department at the University of Virginia, he joined McGill, in 2011.
 
 Professor Meyer's research intersts are diverse, but tend toward computer system architecture, and design automation algorithms for embedded multiprocessor systems; and, 
@@ -22,46 +22,67 @@ Aerospace and automotive system cybersecurity, and hardware-software optimizatio
 
 # Current Students
 
-### Marihan Amein, MEng student
+### Yuyan (Zella) Chen, MSc student
 
-Marihan is a MEng student focusing on machine learning hardware. 
-Find out more about her past work experiences at {% include icon-linkedin.html username='marihan-amein-122373144' label='LinkedIn' %}.
+### Xuening Dong, MSc student
+
+Xuening is a MSc student with interests in computer architecture, machine learning, and novel approaches to machine learning acceleration.
+Find out more about their current and past projects at {% include icon-github.html username='XueningD65' label='GitHub' %}, and
+work experience at {% include icon-linkedin.html username='xn-dong' label='LinkedIn' %}. 
+
+### Milad Ebramhimipour, PhD student
+
+Milad is a PhD student (co-supervision with {% include icon-www.html link='http://www.isip.ece.mcgill.ca/' label='Professor Warren Gross' %}) focusing on the runtime mapping of transformers to heterogeneous multiprocessor systems.
+
+### Negin Firouzian, PhD student
+
+Negin is a PhD student focusing on the modeling and optimization of transformer-based natural language processing for resource-constrained computer systems at the edge.
+
+### Lily Li, MSc student
 
 ### Loren Lugosch, PhD student
 
-{% include icon-www.html link='https://lorenlugosch.github.io/' label='Loren' %} is a PhD student (co-supervision with {% include icon-www.html link='http://www.cim.mcgill.ca/~derek/' label='Professor Derek Nowrouzezahrai' %}) focusing on machine learning. 
-Find out more about his current and past projects at {% include icon-github.html username='lorenlugosch' label='GitHub' %}.
+{% include icon-www.html link='https://lorenlugosch.github.io/' label='Loren' %} is a PhD student (co-supervision with {% include icon-www.html link='http://www.cim.mcgill.ca/~derek/' label='Professor Derek Nowrouzezahrai' %}) focusing on machine learning models for natural language processing models. 
+Find out more about their current and past projects at {% include icon-github.html username='lorenlugosch' label='GitHub' %}.
 
-### Jarul Mehta, MEng student
+### Guillaume Richard, MSc student
 
-Jarul is an MEng student with interests in embedded systems and machine learning. 
-Find out more about her past work experiences at {% include icon-linkedin.html username='jarul-mehta' label='LinkedIn' %}.
-
-### Ahmad Muannakki, MEng student
-
-Ahmad is a MEng student focusing on the cybersecurity and reliability of wireless protocols proposed to replace wired netwroking for control systems in aerospace electronics.
-
-### Alex Orzechowski, MEng student
-
-Alex is an MEng student with interests in embedded systems and machine learning.
-Find out more about his work experiences at {% include icon-linkedin.html username='alexander-orzechowski-98b3b8b9' label='LinkedIn' %}.
+### Olivier Therrien, MSc student
 
 ### Zhuoran (Paul) Xiong, PhD student
 
-Zhuoran is a PhD student (co-supervision with {% include icon-www.html link='http://www.isip.ece.mcgill.ca/' label='Professor Warren Gross' %}) focusing on machine learning. 
-Find out more about his work experience at {% include icon-linkedin.html username='paul-zhuoran-xiong-56567a90' label='LinkedIn' %}.
-
-### Zixuan (Alex) Yin, MEng student
-
-Alex is finishing his MEng improving multi-objective AutoML techniques for convolutional neural networks. 
-Find out more about his past work experiences at {% include icon-linkedin.html username='zixuan-yin-63b28ba4' label='LinkedIn' %}.
-
-### Derek Yu, MEng student
-
-Derek is finishing his MEng on a platform for cybersecurity research in aerospace systems, with a focus on the ARINC-825 communications protocol. 
-You can see more of his projects at {% include icon-github.html username='DerekYu177' label='GitHub' %}.
+Zhuoran is a PhD student (co-supervision with {% include icon-www.html link='http://www.isip.ece.mcgill.ca/' label='Professor Warren Gross' %}) focusing on hardware-software co-design of embedded computer vision systems.
+Find out more about their work experience at {% include icon-linkedin.html username='paul-zhuoran-xiong-56567a90' label='LinkedIn' %}.
 
 # Alumni
+
+<!--
+	McGill eScholarship thesis catelog--
+	https://escholarship.mcgill.ca/catalog?all_fields=&alternative_title=&contributor=brett+meyer&creator=&date=&degree=&department=&description=&f_inclusive%5Brtype_sim%5D%5B%5D=Thesis&faculty=&local_affiliated_centre=&locale=en&op=AND&page=2&publisher=&research_unit=&search_field=advanced&sort=score+desc%2C+system_create_dtsi+desc&subject=&title=
+-->
+
+*Marihan Amein, MSc'22*, 
+{% include icon-pdf.html link='https://escholarship.mcgill.ca/concern/theses/5712mc924' label='Multi-objective neural architecture search for image segmentation' %} | 
+{% include icon-linkedin.html username='marihan-amein-122373144' label='LinkedIn' %}.
+
+*Jarul Mehta, MSc'21*,
+{% include icon-pdf.html link='https://escholarship.mcgill.ca/concern/theses/f4752n789' label='DT-DS: CAN intrusion detection with decision tree ensembles' %} | 
+{% include icon-linkedin.html username='jarul-mehta' label='LinkedIn' %}.
+
+*Alex Orzechowski, MSc'21*,
+{% include icon-pdf.html link='https://escholarship.mcgill.ca/concern/theses/gq67jw87h' label='Machine learning for public EV charging station forecasting' %} | 
+{% include icon-linkedin.html username='alexander-orzechowski-98b3b8b9' label='LinkedIn' %}.
+
+*Ahmad Muannaki, MEng'20*,
+{% include icon-pdf.html link='https://escholarship.mcgill.ca/concern/theses/8910jz90q' label='Aircraft wireless networks for safety-critical systems' %}.
+
+*Zixuan (Alex) Yin, MEng'19*, 
+{% include icon-pdf.html link='https://escholarship.mcgill.ca/concern/theses/bv73c5161' label='Probablistic sequential model-based optimization for multi-objective optimization of convolution neural networks' %}.
+
+*Derek Yu, MEng'19*,
+{% include icon-pdf.html link='https://escholarship.mcgill.ca/concern/theses/sq87bz63t' label='ARINC-825TBv2: a hardware-in-the-loop simulation platform for aerospace security research' %} | 
+{% include icon-github.html username='DerekYu177' label='GitHub' %} | 
+{% include icon-linkedin.html username='derekyu2' label='LinkedIn' %}.
 
 *S. Hasan Mozafari, PhD'19*, 
 {% include icon-pdf.html link='http://digitool.library.mcgill.ca/webclient/DeliveryManager?pid=167834&custom_att_2=direct' label='Redundancy for cost, performance, and lifetime improvement in application specific SIMT processors' %} | 
@@ -85,7 +106,8 @@ You can see more of his projects at {% include icon-github.html username='DerekY
 {% include icon-pdf.html link='http://digitool.library.mcgill.ca/webclient/DeliveryManager?pid=143963&custom_att_2=direct' label='Associative memory based on sparse-clustered network with selective decoding for internet packet classification' %}.
 
 *Mojing Liu, MEng'16*, 
-{% include icon-pdf.html link='http://digitool.library.mcgill.ca/webclient/DeliveryManager?pid=138945&custom_att_2=direct' label='Bounding error detection latency with enhanced execution fingerprinting' %} | {% include icon-linkedin.html username='mojingliu' label='LinkedIn' %}.
+{% include icon-pdf.html link='http://digitool.library.mcgill.ca/webclient/DeliveryManager?pid=138945&custom_att_2=direct' label='Bounding error detection latency with enhanced execution fingerprinting' %} | 
+{% include icon-linkedin.html username='mojingliu' label='LinkedIn' %}.
 
 *Calvin Ma, MEng'16* 
 (Co-supervision with {% include icon-www.html link='http://www.ece.mcgill.ca/~amahaj1/' label='Professor Aditya Mahajan' %}), 

@@ -16,9 +16,9 @@
 lang: en-US
 title: Reliable Silicon Systems Lab
 email: brett.meyer@mcgill.ca
-description: "Professor Brett H. Meyer directs the Reliable Silicon Systems Lab, a research group in the Electrical and Computer Engineering Department at McGill University."
+description: "Professor Brett H. Meyer directs the Reliable Silicon Systems Lab (RSSL), a research group in the Electrical and Computer Engineering Department at McGill University. RSSL conducts state-of-the-art research in computer system optimization, with a focus on hardware-software co-design and optimization of machine learning systems."
 baseurl: # the optional subpath of your site, e.g. "/blog"
-url: http://rssl.ece.mcgill.ca # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: https://rssl.ece.mcgill.ca # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author: 
   name: Brett H. Meyer
   twitter: bretthmeyer
