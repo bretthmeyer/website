@@ -29,6 +29,6 @@ Professor Meyer will continue by introducing how machine learning algorithms, an
 He'll discuss the typical constraints of hardware running ML applications, and the related metrics used for optimization.
 He will then revisit deep learning hyperparameters, introduce hyperparameter optimization, and present recent results optimizing computer vision and natural language processing tasks.
 
-Download {% include icon-pdf.html link="/assets/pdfs/EPEPS_2019_tutorial_part1_v1.0_presented.pdf" label="Part 1" %}.
+Download {% include icon-pdf.html link="/assets/pdfs/EPEPS_2019_tutorial_part1_v1.0_presented.pdf" label="Part 1" %}
 
-Download {% include icon-pdf.html link="/assets/pdfs/191006%20epeps%20ml%20tutorial.pdf" label="Part 2" %}.
+Download {% include icon-pdf.html link="/assets/pdfs/191006%20epeps%20ml%20tutorial.pdf" label="Part 2" %}

@@ -8,9 +8,10 @@
 .sass-cache
 _asset_bundler_cache
 _site
+example/_site
 vendor
 codekit-config.json
-example/_site
+deploy.py
 Gemfile.lock
 node_modules
 npm-debug.log*

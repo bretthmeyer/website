@@ -1,0 +1,25 @@
+/*
+generated with pandoc 3.0.1; most style definitions removed
+
+pandoc -s --bibliography bhm-tenure.bib --citeproc --csl ieee.csl bhm-cv.md -t html -o bhm-cv.html
+*/
+
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging div.csl-entry {
+  margin-left:1em;
+  text-indent:-1em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:1em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 1em;
+}

@@ -20,9 +20,8 @@ Professor Meyer's research intersts are diverse, but tend toward computer system
 fault-tolerance, manufacturability, and safety-critical system design.
 Aerospace and automotive system cybersecurity, and hardware-software optimization of machine learning systems, are new areas of interest.
 
+<a name="current">
 # Current Students
-
-### Yuyan (Zella) Chen, MSc student
 
 ### Xuening Dong, MSc student
 
@@ -34,32 +33,42 @@ work experience at {% include icon-linkedin.html username='xn-dong' label='Linke
 
 Milad is a PhD student (co-supervision with {% include icon-www.html link='http://www.isip.ece.mcgill.ca/' label='Professor Warren Gross' %}) focusing on the runtime mapping of transformers to heterogeneous multiprocessor systems.
 
+<a name="negin">
 ### Negin Firouzian, PhD student
 
-Negin is a PhD student focusing on the modeling and optimization of transformer-based natural language processing for resource-constrained computer systems at the edge.
-
-### Lily Li, MSc student
+{% include icon-www.html link='https://negfir.github.io/' label='Negin' %} is a PhD student focusing on the modeling and optimization of transformer-based natural language processing for resource-constrained computer systems at the edge.
+Find out more about their work experience at {% include icon-linkedin.html username='negfir' label='LinkedIn' %}.
 
 ### Loren Lugosch, PhD student
 
 {% include icon-www.html link='https://lorenlugosch.github.io/' label='Loren' %} is a PhD student (co-supervision with {% include icon-www.html link='http://www.cim.mcgill.ca/~derek/' label='Professor Derek Nowrouzezahrai' %}) focusing on machine learning models for natural language processing models. 
 Find out more about their current and past projects at {% include icon-github.html username='lorenlugosch' label='GitHub' %}.
 
-### Guillaume Richard, MSc student
-
-### Olivier Therrien, MSc student
-
 ### Zhuoran (Paul) Xiong, PhD student
 
 Zhuoran is a PhD student (co-supervision with {% include icon-www.html link='http://www.isip.ece.mcgill.ca/' label='Professor Warren Gross' %}) focusing on hardware-software co-design of embedded computer vision systems.
 Find out more about their work experience at {% include icon-linkedin.html username='paul-zhuoran-xiong-56567a90' label='LinkedIn' %}.
 
+<a name="alumni">
 # Alumni
 
 <!--
 	McGill eScholarship thesis catelog--
 	https://escholarship.mcgill.ca/catalog?all_fields=&alternative_title=&contributor=brett+meyer&creator=&date=&degree=&department=&description=&f_inclusive%5Brtype_sim%5D%5B%5D=Thesis&faculty=&local_affiliated_centre=&locale=en&op=AND&page=2&publisher=&research_unit=&search_field=advanced&sort=score+desc%2C+system_create_dtsi+desc&subject=&title=
 -->
+
+*Yuyan (Zella) Chen, MSc'22*
+{% include icon-pdf.html link='https://escholarship.mcgill.ca/concern/theses/st74cw930' label='Hardware-aware pareto-optimal search for compressed transformers' %}.
+
+<a name="lily">
+*Chuning (Lily) Li, MSc'22*
+{% include icon-pdf.html link='https://escholarship.mcgill.ca/concern/theses/2n49t734f' label='Inference energy modeling for BERT models' %}.
+
+*Guillaume Richard, MSc'22*
+{% include icon-pdf.html link='https://escholarship.mcgill.ca/concern/theses/fb494f68t' label='A825-HWIL: Hardware simulation platform for ARINC 825 cybersecurity analysis' %}.
+
+*Olivier Therrien, MSc'22*
+{% include icon-pdf.html link='https://escholarship.mcgill.ca/concern/theses/mk61rp552?locale=en' label='SSS3D: fast neural architecture search for efficient three-dimensional semantic segmentation' %} | {% include icon-linkedin.html username='olivier-therrien-a65511146' label='LinkedIn' %}.
 
 *Marihan Amein, MSc'22*, 
 {% include icon-pdf.html link='https://escholarship.mcgill.ca/concern/theses/5712mc924' label='Multi-objective neural architecture search for image segmentation' %} | 

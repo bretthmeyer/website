@@ -50,7 +50,7 @@ plugins: # previsously gems
 #  path: atom.xml
 
 # Pagination - https://jekyllrb.com/docs/pagination/
-paginate: 10
+paginate: 3
 paginate_path: /page:num/
 
 # Exclude from processing.
@@ -71,6 +71,7 @@ exclude:
   - node_modules
   - Rakefile
   - README
+  - banners/ # ignore raw images used to make banners
   - vendor/bundle/
   - vendor/cache/
   - vendor/gems/
@@ -78,6 +79,8 @@ exclude:
   - jekyll-theme-basically-basic-master.zip # ignore source
   - jekyll-theme-basically-basic.gemspec # ignore source
   - "*.tgz" # ignore archived builds
+  - deploy.py # script for moving site to rssl.ece.mcgill.ca
+  - research.md # temporarily ignore this!
 
 # Front Matter Defaults
 defaults:
