@@ -1,6 +1,7 @@
 ---
 title: "Poster: Optimizing Keyword Spotting on Microcontrollers"
 excerpt: "Undergraduate Adithya Lakshminarayanan presented his summer research at the SURE Poster Session today. It explores the different trade-offs inherent in quantizing models for keyword spotting. FP is best for top accuracy, but 8- and 16-bit models each strike interesting trade-offs under tighter constraints."
+hidden: true
 ---
 
 Undergraduate Adithya Lakshminarayanan presented his summer research at the McGill SURE Poster Session today.

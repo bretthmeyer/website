@@ -2,6 +2,7 @@
 title: Join Us
 layout: page
 permalink: /apply/
+description: Interested in joining RSSL? We are currently looking for students at all levels (Undergraduate research assistants, Masters students, PhD students, or Postdoctoral research associates) with computer engineering backgrounds interested in hardware-software co-optimization of machine learning systems, and model optimization for bias mitigation.
 ---
 
 Interested in joining RSSL? We are currently looking for students at all levels (Undergraduate research assistants, Masters students, PhD students, or Postdoctoral research associates) with computer engineering backgrounds interested in:

@@ -2,6 +2,7 @@
 title: Publications
 layout: page
 permalink: /publications/
+description: For a full list of RSSL publications, please see Professor Brett H. Meyer's dblp or Google Scholar pages. What follows is a selection of recent publications.
 actions:
  - label: "dblp"
    icon: arrow-right
@@ -10,6 +11,8 @@ actions:
    icon: googlescholar
    url: "https://scholar.google.ca/citations?user=UyAeYDwAAAAJ&hl=en"
 ---
+
+For a full list of RSSL publications, please see Professor Brett H. Meyer's <a href="https://dblp.uni-trier.de/pers/hd/m/Meyer:Brett_H=">dblp</a> or <a href="https://scholar.google.ca/citations?user=UyAeYDwAAAAJ&hl=en">Google Scholar</a> pages. What follows is a selection of recent publications.
 
 <link rel="stylesheet" href="../cv.css">
 
@@ -65,6 +68,7 @@ for edge intelligence</a>,”</span> <em>IEEE Open Journal of Circuits and
 Systems</em>, pp. 1–14, 2020.</div>
 </div>
 
+<!-- 
 <a name="full">
 ## Full Bibliography
 
@@ -72,13 +76,13 @@ Systems</em>, pp. 1–14, 2020.</div>
 <a href="#conferences">Conferences</a><br>
 <a href="#posters">Posters and Symposia</a><br>
 <a href="#books">Book Chapters</a><br>
-
-<!-- generated with pandoc 3.0.1 and lightly edited
-
-pandoc -s --bibliography bhm-tenure.bib --citeproc --csl ieee.csl bhm-cv.md -t html -o bhm-cv.html
-
 -->
 
+<!-- generated with pandoc 3.0.1 and lightly edited
+pandoc -s --bibliography bhm-tenure.bib --citeproc --csl ieee.csl bhm-cv.md -t html -o bhm-cv.html
+-->
+
+<!-- 13-Nov-2024-- moving away from attempting to keep this updated
 <a name="journals">
 ### Journal Articles
 
@@ -872,3 +876,5 @@ class="csl-right-inline"><span>“Power-performance modeling and design
 for heterogeneous multiprocessors,”</span> in <em>Designing embedded
 processors</em>, Springer, 2007, pp. 423–448.</div>
 </div>
+
+-->

@@ -1,6 +1,7 @@
 ---
 title: "Prof. Meyer presents at Dawson Humanities and Public Life Conference"
 excerpt: "Prof. Brett H. Meyer presented at the Dawson College Humanities and Public Life Conference today, giving a talk entitled 'The Algorithms Aren't Alright: Why Machine Learning Still Needs Us.' In it he introduced machine learning in general, deep learning in particular, and highlighted some of the challenges that arise in the application of deep learning: robustness, explainaibility, and bias."
+hidden: true
 ---
 
 Prof. Brett H. Meyer presented at the Dawson College Humanities and Public Life Conference (HPL 2019) today, giving a talk entitled 'The Algorithms Aren't Alright: Why Machine Learning Still Needs Us.' In it he introduced machine learning in general, deep learning in particular, and highlighted some of the challenges that arise in the application of deep learning: robustness, explainaibility, and bias.
